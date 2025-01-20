@@ -2,5 +2,7 @@
 name = "blur_lang"
 version = "0.1.0"
 edition = "2021"
-
-[dependencies]
+authors = ["Valery Shvets <seacrest@ukr.net>"]
+description = "Language for JavaScript optimization"
+homepage = "https://github.com/seacrst/blur_lang"
+license = "MIT"
