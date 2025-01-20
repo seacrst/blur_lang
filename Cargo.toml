@@ -1,6 +1,6 @@
 [package]
 name = "blur_lang"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Valery Shvets <seacrest@ukr.net>"]
 description = "Language for JavaScript optimization"
